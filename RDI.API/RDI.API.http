@@ -1,0 +1,6 @@
+@RDI.API_HostAddress = http://localhost:5072
+
+GET {{RDI.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
