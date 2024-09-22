@@ -1,9 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using RDI.BIBLIOTECA.Domain;
+﻿using RDI.BIBLIOTECA.Domain;
 
 namespace RDI.BIBLIOTECA.Service
 {
